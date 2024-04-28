@@ -7,7 +7,7 @@ I'm Adeola Adedayo, a passionate data analyst with a knack for unraveling insigh
 
 ### languages and tools
 
-###
+####
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -25,9 +25,9 @@ I'm Adeola Adedayo, a passionate data analyst with a knack for unraveling insigh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+####
 
 <div align="left">
 </div>
 
-###
+####
