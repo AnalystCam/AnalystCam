@@ -4,7 +4,7 @@ I'm Adeola Adedayo — a data engineer passionate about designing scalable data 
 
 With a background in business intelligence and analytics, I’ve transitioned into building robust **data pipelines**, **cloud-based architectures**, and **automated workflows** that move data seamlessly from source to insight.  
 
-I’m experienced in tools like **Snowflake**, **Airbyte**, **dbt**, and **Power BI**, and I love optimizing data processes to make analytics faster, cleaner, and more reliable.  
+I’m experienced in tools like **Databricks**, **Snowflake**, **Airbyte**, **dbt**, and **Power BI**, and I love optimizing data processes to make analytics faster, cleaner, and more reliable.  
 
 Here, you’ll find projects that reflect my journey — from transforming messy datasets into structured pipelines to orchestrating end-to-end data workflows. My goal is to create efficient, resilient, and data-driven systems that scale with business needs.  
 
