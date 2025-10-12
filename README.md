@@ -1,15 +1,20 @@
-
 ### Hi there 👋
 
-I'm Adeola Adedayo, a passionate data analyst with a knack for unraveling insights from complex datasets. With a blend of analytical skills and a curiosity-driven mindset, I thrive on transforming raw data into actionable intelligence that drives informed decision-making. Whether it's untangling trends, crafting compelling visualizations, or building predictive models, I'm dedicated to leveraging data to uncover valuable insights and propel business success. Join me on a journey through the world of data, where every dataset holds the potential for discovery and innovation.
+I'm Adeola Adedayo — a data engineer passionate about designing scalable data solutions that empower analytics and decision-making.  
 
-### languages and tools
+With a background in business intelligence and analytics, I’ve transitioned into building robust **data pipelines**, **cloud-based architectures**, and **automated workflows** that move data seamlessly from source to insight.  
 
-####
+I’m experienced in tools like **Snowflake**, **Airbyte**, **dbt**, and **Power BI**, and I love optimizing data processes to make analytics faster, cleaner, and more reliable.  
+
+Here, you’ll find projects that reflect my journey — from transforming messy datasets into structured pipelines to orchestrating end-to-end data workflows. My goal is to create efficient, resilient, and data-driven systems that scale with business needs.  
+
+Let’s build better data together 🚀  
+
+---
+
+### 🛠️ Languages and Tools  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -21,11 +26,26 @@ I'm Adeola Adedayo, a passionate data analyst with a knack for unraveling insigh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-####
+---
 
-<div align="left">
-</div>
+### 💡 What I’m currently working on  
+- Building **ETL pipelines** using Python, SQL, and Airbyte  
+- Modeling data transformations with **dbt** and **Snowflake**  
+- Automating data quality checks and workflow orchestration  
+- Exploring **modern data stack tools** for scalable analytics  
 
-####
+---
+
+### 📫 Let’s connect  
+- 🌐 [LinkedIn](#)  
+- 💻 [Portfolio](#)  
+- 📧 adeola.adedayo@example.com  
+
+---
+
