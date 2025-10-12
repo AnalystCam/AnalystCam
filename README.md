@@ -34,18 +34,9 @@ Let’s build better data together 🚀
 
 ---
 
-### 💡 What I’m currently working on  
-- Building **ETL pipelines** using Python, SQL, and Airbyte  
-- Modeling data transformations with **dbt** and **Snowflake**  
-- Automating data quality checks and workflow orchestration  
-- Exploring **modern data stack tools** for scalable analytics  
-
----
-
 ### 📫 Let’s connect  
-- 🌐 [LinkedIn](#)  
-- 💻 [Portfolio](#)  
-- 📧 adeola.adedayo@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adedayo-adeola/)  
+- 📧 gbolahanadeola23@outlook.com
 
 ---
 
