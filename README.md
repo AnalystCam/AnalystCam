@@ -1,4 +1,4 @@
-update my github and make my profile very readable and great. ### Hi there 👋
+### Hi there 👋
 I'm Adeola Adedayo — a data engineer passionate about designing scalable data solutions that empower analytics and decision-making.  
 With a background in business intelligence and analytics, I’ve transitioned into building robust **data pipelines**, **cloud-based architectures**, and **automated workflows** that move data seamlessly from source to insight.  
 I’m experienced in tools like **Databricks**, **Snowflake**, **Airbyte**, **dbt**, and **Power BI**, and I love optimizing data processes to make analytics faster, cleaner, and more reliable.  
